@@ -8,7 +8,7 @@ The system is normalized for scalability and supports product variations
 and multiple category associations.
 
 Entity-Relationship Diagram (ERD)
-![E-COMMERCE DATABASE]()
+![E-COMMERCE DATABASE](https://github.com/MicaelaMerci/E-commerce_Database/blob/main/images/e-commerce_platform_db.drawio.png)
 ERD Link:
 https://drive.google.com/file/d/1nqB4nGRa8UW_TfiiT8gCt5q9dEYo9byJ/view?usp=sharing
 
